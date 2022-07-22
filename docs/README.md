@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: ./images/hero.png
+heroImage: /images/hero.png
 actions:
   - text: 快速上手
     link: /guide/index.html
